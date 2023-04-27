@@ -23,3 +23,44 @@
 #     print('o valor da passagem será: R$', km * 1.50)
 # else:
 #     print('o valor da passagem será: R$', km * 1.25)
+
+# HOME OFFICE
+
+# n1 = float(input('Digite qualquer número: '))
+# n2 = float(input('Digite qualquer número: '))
+# n3 = float(input('Digite qualquer número: '))
+
+# if n1 > n2 and n1 > n3 :
+#     print('Os três números são diferentes!')
+# elif n1 > n2 and n1 < n3 :
+#    print('Os três números são diferentes!')
+# elif n1 < n2 and n2 > n3 :
+#     print('Os três números são diferentes!')
+# elif n1 == n2 and n1 == n3 :
+#     print('Os três números são iguais!')
+# elif n1 == n2 and n1 != n3 :
+#     print('Dois números iguais!')
+# elif n1 != n2 and n1 == n3 :
+#     print('Dois números iguais!')
+# elif n1 != n2 and n2 == n3 :
+#     print('Dois números iguais!')
+# else:
+#    print('ERRO')
+
+# num1= float(input('Digite um número: '))
+# num2= float(input('Digite um número: '))
+# num3= float(input('Digite um número: '))
+# num4= float(input('Digite um número: '))
+# num5= float(input('Digite um número: '))
+# maior_numero = num1 
+# if num2 > maior_numero:     
+#  maior_numero = num2 
+# elif num3 > maior_numero:      
+#   maior_numero = num3 
+# elif num4 > maior_numero:     
+#    maior_numero = num4  
+# elif num5 > maior_numero:     
+#    maior_numero = num5  
+# else:
+#    print('ERRO')
+#    print("O maior número é: ", maior_numero)
