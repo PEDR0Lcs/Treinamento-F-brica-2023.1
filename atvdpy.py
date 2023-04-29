@@ -77,3 +77,18 @@
 # else :
 #     print('O número {} é ÍMPAR' .format(n1))
 
+# n1 = float(input('Digite o seu salário: '))
+# gasto = float(input('Digite seus gastos: '))
+# if gasto <= n1 :
+#     print('Seus gastos estão dentro do orçamento!')
+# else:
+#     print('Seus gastos estão fora do orçamento!')
+
+# data = int(input('Digite o ano do seu nascimento: '))
+# conta = 2023 - data
+# if conta >= 18 :
+#     print('Maior de idade!')
+# else:
+#     print('Menor de idade!')
+
+
