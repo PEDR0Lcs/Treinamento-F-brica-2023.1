@@ -64,3 +64,15 @@
 # else:
 #    print('ERRO')
 #    print("O maior número é: ", maior_numero)
+
+# n1 = float(input('Digite seu número: '))
+# if n1 < 0 :
+#     print('O número {} é Negativo!' .format(n1))
+# else :
+#     print('O número {} é Positivo!' .format(n1))
+
+# n1 = float(input('Digite um número: '))
+# if n1 %2 == 1 :
+#     print('O número {} é Ímpar!' .format(n1))
+# else :
+#     print('O número {} é Par!' .format(n1))
